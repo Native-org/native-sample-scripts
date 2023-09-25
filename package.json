@@ -1,0 +1,16 @@
+{
+  "name": "@native_andreass/pmm-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-pairs": "node ./scripts/update-pairs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.7.1"
+  }
+}
