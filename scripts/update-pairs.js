@@ -25,8 +25,8 @@ const newPairs = [
   {
     tokenA: tokenMap["WETH"],
     tokenB: tokenMap["BANANA"],
-    fee: 0,
-    pricingModel: 100,
+    fee: 0, // 0 for PMM
+    pricingModel: 100, // 100 for PMM
   },
 ];
 
